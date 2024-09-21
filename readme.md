@@ -1,4 +1,3 @@
-<img src="https://github.com/Rohit2350/DataScience-YouTube-API-EDA/blob/main/Image.png" alt="Banner" width="1000" height="150" />
 ### Youtube Data Analysis with YT API
 View Jupyter notebook on NBViewer- https://nbviewer.org/github/Rohit2350/YTAPI-Analysis/blob/main/Youtube%20Analysis.ipynb 
 
