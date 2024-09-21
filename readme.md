@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Rohit2350/DataScience-YouTube-API-EDA/blob/main/Image.webp" width="800"/>
+  <img src="https://github.com/Rohit2350/DataScience-YouTube-API-EDA/blob/main/Image.webp" width="1000"/>
 </p>
 
 
